@@ -3,3 +3,54 @@
   text-align: center;
 }
 
+.container-navigation{
+  /* margin-right: 20px; */
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: flex-end; 
+}
+
+
+
+
+
+
+/* location.html */
+.location-all {
+  /* background-color: #3b73d4ff; */
+  margin-bottom: 0;
+  margin-top: -50px;
+}
+
+.Locations{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center; 
+}
+
+.location-para h3{
+  max-width: 960px;
+  font-size: 25px;
+  margin: auto;
+}
+
+.location-para p {
+  max-width: 960px;
+  font-size: 25px;
+  margin: auto;
+}
+
+
+@media only screen and (max-width: 860px) {
+  .location-para p {
+      font-size: 20px;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .location-para p {
+      font-size: 15px;
+  }
+}
