@@ -15,12 +15,11 @@
 
 
 
-
 /* location.html */
 .location-all {
   /* background-color: #3b73d4ff; */
   margin-bottom: 0;
-  margin-top: -50px;
+  margin-top: 20px;
 }
 
 .Locations{
@@ -34,12 +33,19 @@
   max-width: 960px;
   font-size: 25px;
   margin: auto;
+  text-align: center;
 }
 
 .location-para p {
   max-width: 960px;
   font-size: 25px;
   margin: auto;
+  text-align: center;
+}
+
+.location-para{
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 
