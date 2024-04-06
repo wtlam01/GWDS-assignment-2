@@ -1,3 +1,5 @@
+
+
 .topnav a{
   float: centre;
   text-align: center;
@@ -15,7 +17,7 @@
 
 
 
-/* location.html */
+/* About us &&& location.html */
 .location-all {
   /* background-color: #3b73d4ff; */
   margin-bottom: 0;
@@ -32,6 +34,13 @@
 .location-para h3{
   max-width: 960px;
   font-size: 25px;
+  margin: auto;
+  text-align: center;
+}
+
+.location-para h1{
+  max-width: 960px;
+  font-size: 35px;
   margin: auto;
   text-align: center;
 }
