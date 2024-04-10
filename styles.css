@@ -24,6 +24,14 @@
   margin-top: 20px;
 }
 
+.location-all h1{
+  max-width: 960px;
+  font-size: 30px;
+  margin: auto;
+  text-align: center;
+  margin-top: 30px;
+}
+
 .Locations{
   display: flex;
   flex-wrap: wrap;
@@ -38,16 +46,9 @@
   text-align: center;
 }
 
-.location-para h1{
-  max-width: 960px;
-  font-size: 35px;
-  margin: auto;
-  text-align: center;
-}
-
 .location-para p {
   max-width: 960px;
-  font-size: 25px;
+  /* font-size: 20px; */
   margin: auto;
   text-align: center;
 }
