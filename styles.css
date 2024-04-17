@@ -1,9 +1,9 @@
-main > .container {
+/* main > .container {
   padding: 60px 15px 0;
-} 
+}  */
 
 .topnav a{
-  float: centre;
+  float: center;
   text-align: center;
 }
 
@@ -14,7 +14,7 @@ main > .container {
   justify-content: flex-end; 
 } */
 
-.bd-placeholder-img {
+/* .bd-placeholder-img {
   font-size: 1.125rem;
   text-anchor: middle;
   -webkit-user-select: none;
@@ -26,6 +26,10 @@ main > .container {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
   }
+} */
+
+main{
+  margin-top: 100px;
 }
 
 
